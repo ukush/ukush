@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Uwais</h1>
-<p>A passionate frontend I'm a curious technologist and lifelong learner who’s always exploring new ideas and technologies. I believe software isn’t just code - it’s a powerful tool for solving real-world problems and driving positive change..</p>
+<pI'm a software engineer with a robust foundation in AI/ML, web development, and software engineering principles. Skilled in delivering full-stack applications and managing the entire software development lifecycle - from gathering client requirements to deployment, honed through running my own freelancing business and company.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
